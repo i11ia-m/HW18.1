@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8ad48b;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: blue;
+    margin: 0 10px;
+}
+
+.contact-info p {
+    font-size: 18px;
+    color: #09076b;
+}
+
+.gallery img {
+    width: 300px;
+    height: auto;
+    border: 2px solid #ccc;
+    margin-bottom: 10px;
+}
